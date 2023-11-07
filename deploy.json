@@ -4,7 +4,7 @@
   "parameters": {
     "assetLocation": {
       "type": "string",
-      "defaultValue": "https://github.com/sathishphcl/AVD_Lab_Setup/raw/master/",
+      "defaultValue": "https://raw.githubusercontent.com/sathishphcl/AVD_Lab_Setup/master/",
       "metadata": { "description": "This is the location in which all the linked templates are stored." }
     },
     "adminUsername": {
